@@ -1,0 +1,6 @@
+/.vscode
+/binarySemaphore.o
+/countingSemaphore.o
+/initShared.o
+/initialiseArrays.o
+/multipleProducer.o
